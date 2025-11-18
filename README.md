@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am a Software Engineer at Coforge
+- 🔭 I am a Software Engineer at Deloitte.
 - 🧑🏻‍💻 skills: Java, Springboot, Apex, Lightning Web Components
 
 - 📫 How to reach me: [Gmail](vedantsingh19dec@gmail.com),
