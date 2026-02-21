@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am a Software Engineer at Deloitte.
+- 🔭 I am a Certified Salesforce Engineer at Deloitte.
 - 🧑🏻‍💻 skills: Java, Springboot, Apex, Lightning Web Components
 
 - 📫 How to reach me: [Gmail](vedantsingh19dec@gmail.com),
